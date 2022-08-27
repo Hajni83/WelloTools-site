@@ -4,5 +4,5 @@ module.exports = {
     port: 8081,
   },
   outputDir: 'docs',
-  publicPath: process.env.NODE_ENV === 'production' ? '/WelloTools-site/docs/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/WelloTools-site/' : '/',
 };
