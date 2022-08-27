@@ -27,7 +27,6 @@
 							</ul>
 							<br class="d-sm-none d-md-block">
 							<div>
-								<a href="javascript:void(Tawk_API.toggle())" class="btn btn-outline-semi-light btn-xl purpleBackground">{{buttonText}}</a>
 							</div>
 							<div>
 								<br>
